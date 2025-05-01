@@ -1,22 +1,17 @@
 ## Hi
 
-I'm a student and a developer from Ukraine, currently living in the UK.
+I am Dqu1J. Dqu for short. I'm a student from Ukraine who messes around with java/kotlin/python/js.
 
-- timezone: GMT (UTC+1)
+- timezone: British time (I live here)
 - languages: English, Ukrainian
-- programming languages: Java, Python, Javascript
 
-### things i've made
+### things i've made that are public
 - [Additional Additions](https://github.com/Additional-Mods/additionaladditions) – a minecraft mod that adds many useful additional additions.
 - [SimplerAuth](https://github.com/Additional-Mods/simplerauth) – a minecraft mod that adds server-side authentication.
-- [Тривога Bot](https://github.com/Dqu1J/etryvogabot) — a discord bot that sends air raid notifications for regions of Ukraine.
 
 ### links
-- [my youtube channel](https://www.youtube.com/@dqu1j)
 - [my website](https://dqu.one/)
-- [my minecraft mods](https://curseforge.com/members/dqu1jjj/projects)
+- my discord: @dqu1j
 
 
-my discord: @dqu1j
-
-Слава Україні
+Слава Україні!!
